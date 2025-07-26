@@ -8,7 +8,7 @@ import os
 from collections import defaultdict
 
 PROJECT_DIR = os.path.dirname(os.getcwd())
-DATA_DIR = os.path.dirname(os.path.dirname(PROJECT_DIR))
+DATA_DIR = os.path.dirname(PROJECT_DIR)
 
 def get_college_dict():
     # data/worldcollege
