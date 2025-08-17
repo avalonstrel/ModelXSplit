@@ -1,5 +1,5 @@
 # Reproducible Code for 'Gold after Randomized Sand: Model-X Split Knockoffs for Controlled Transformation Selection'
-
+https://arxiv.org/abs/2507.01732
 ## Package Installation
 pip install -e .
 
